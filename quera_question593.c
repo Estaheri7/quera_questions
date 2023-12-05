@@ -3,8 +3,6 @@
 int main() {
     int n, temp, digit, b;
     b = 0;
-    
-    printf("Enter n: ");
     scanf("%d", &n);
 
     temp = n;
